@@ -11,6 +11,7 @@ Steps
 Create React Native Project by using react-native init LoginTest
 Install fbsdk by using npm install --save react-native-fbsdk
 Run react-native link
+Setting Up Facebook App
 Get App ID and Update configuration in project
 Create a Development Key Hash and register in Facebook App
 
