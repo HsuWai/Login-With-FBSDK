@@ -1,5 +1,7 @@
 # Login-With-FBSDK
 
+- Demo application using FBSDK and react-native for login with facebook.
+
 # Reference Links
 
 https://github.com/facebook/react-native-fbsdk
